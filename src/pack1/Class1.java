@@ -7,5 +7,7 @@ public class Class1
 		System.out.println("Hello");
 		
 		System.out.println("Hello-Pranay");
+		
+		System.out.println("Hiii");
 	}
 }
